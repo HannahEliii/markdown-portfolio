@@ -1,4 +1,4 @@
 Favorite colors:
-purple
-red
-blue
+- purple
+- red
+- blue
